@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <section>
-      <h2>About Me</h2>
+      <h1>Manish Niturkar</h1>
       <p>I am a Designer</p>
     </section>
   )

@@ -8,7 +8,7 @@ import Skills from "./skills/page";
 export default function Home() {
   return (
     <main>
-      <h1>Manish Niturkar</h1>
+      
 
 
       <About />
