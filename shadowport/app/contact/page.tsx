@@ -14,6 +14,10 @@ export default function Contact() {
         <div className="space-y-4 text-gray-300">
 
           <p>
+            Mo: <span className="text-orange-500">+91 9876543210</span>
+          </p>
+
+          <p>
             Email: <span className="text-orange-500">your@email.com</span>
           </p>
 
