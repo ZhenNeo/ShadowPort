@@ -14,11 +14,11 @@ export default function Contact() {
         <div className="space-y-4 text-gray-300">
 
           <p>
-            Mo: <span className="text-orange-500">+91 9876543210</span>
+            Mo: <span className="text-orange-500">+91 9421423288</span>
           </p>
 
           <p>
-            Email: <span className="text-orange-500">your@email.com</span>
+            Email: <span className="text-orange-500">niturkarmanishm@gmail.com</span>
           </p>
 
           <p>
