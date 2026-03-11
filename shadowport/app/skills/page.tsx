@@ -8,17 +8,16 @@ export default function Skills() {
         <div className="space-y-8">
 
           <div>
-            <h2 className="text-xl text-orange-500 mb-3">CAD & Design</h2>
+            <h2 className="text-xl text-orange-500 mb-3">Tools</h2>
             <ul className="text-gray-300 space-y-2">
-              <li>CATIA</li>
-              <li>3D Modeling</li>
-              <li>Surface Modeling</li>
-              <li>Assembly Design</li>
+              <li>CATIA V5 (for 3D & 2D BIW Fixture Design)</li>
+              <li>Ansys (Engineering Simulation and 3D design)</li>
+              <li>Solidworks</li>
             </ul>
           </div>
 
           <div>
-            <h2 className="text-xl text-orange-500 mb-3">Engineering</h2>
+            <h2 className="text-xl text-orange-500 mb-3">Automotive standards</h2>
             <ul className="text-gray-300 space-y-2">
               <li>Mechanical Design</li>
               <li>Product Design</li>
@@ -27,11 +26,11 @@ export default function Skills() {
           </div>
 
           <div>
-            <h2 className="text-xl text-orange-500 mb-3">Tools</h2>
+            <h2 className="text-xl text-orange-500 mb-3">Leadership</h2>
             <ul className="text-gray-300 space-y-2">
-              <li>Git</li>
-              <li>Next.js</li>
-              <li>React</li>
+              <li>Problem Solving</li>
+              <li>Decision Making</li>
+              <li>Adaptability</li>
             </ul>
           </div>
 
