@@ -26,7 +26,7 @@ export default function Contact() {
           </p>
 
           <p>
-            LinkedIn: <span className="text-orange-500">linkedin.com/in/yourprofile</span>
+            LinkedIn: <span className="text-orange-500">linkedin.com/in/manish-niturkar-88010b228/</span>
           </p>
 
         </div>
