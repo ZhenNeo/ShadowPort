@@ -13,9 +13,10 @@ export default function About() {
         </h2>
 
         <p className="text-gray-300 text-lg leading-relaxed">
-          I design mechanical systems and 3D models with a focus on precision,
-          function, and aesthetics. My work includes CAD modeling, product
-          design, and engineering visualization.
+          Detail-oriented and results-driven BIW (Body-in-White) Fixture Design Engineer with 1 year of experience in designing, developing, and
+optimizing fixtures for automotive manufacturing processes. Proficient in using CATIA V5 for both 3D and 2D designs, with experience
+working on numerous projects and adhering to multiple international standards including American, European, and Japanese design
+specifications.
         </p>
 
         <div className="flex gap-6 justify-center pt-6">
