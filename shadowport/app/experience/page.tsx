@@ -5,6 +5,15 @@ export default function Experience() {
 
         <h1 className="text-4xl font-bold">Experience</h1>
 
+        {/* Career Summary */}
+        <p className="text-gray-300 leading-relaxed text-lg">
+          Mechanical Design Engineer with experience in automotive manufacturing,
+          specializing in fixture design and production tooling. My work focuses
+          on building precise, repeatable manufacturing solutions using CATIA V5
+          while collaborating closely with production and quality teams to bring
+          designs from concept to shop-floor implementation.
+        </p>
+
         {/* Experience 1 */}
         <div className="space-y-3">
           <div className="flex justify-between items-baseline">
