@@ -8,10 +8,7 @@ import Skills from "./skills/page";
 
 export default function Home() {
   return (
-    <main>
-      
-
-
+    <main>   
       <About />
       <Experience />
       <Projects />
